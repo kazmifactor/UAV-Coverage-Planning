@@ -24,7 +24,7 @@ This example demonstrates a complete workflow for planning a survey of **Rawal L
 - The ROI is defined interactively.
   ![Defined ROI](defined_roi.png)
 - The planner decomposes the ROI into smaller sub-regions and generates an efficient coverage path.
-  ![Defined ROI](defined_roi.png)
+  ![Optimized_path](optimized_path.png)
 - The optimized waypoints are exported and ready to be used for autonomous UAV missions.
 - ![Mission_planner](mission_planner.png)
 
