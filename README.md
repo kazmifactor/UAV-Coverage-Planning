@@ -24,10 +24,10 @@ This example demonstrates a complete workflow for planning a survey of **Rawal L
 - The planner decomposes the ROI into smaller sub-regions and generates an efficient coverage path.
 - The optimized waypoints are exported and ready to be used for autonomous UAV missions.
 
-![Rawal Lake Map](images/rawal_lake_map.png)
-![Defined ROI](images/defined_roi.png)
-![Optimized Path](images/optimized_path.png)
-![Optimized Path](images/optimized_path.png)
+![Rawal Lake Map](rawal_lake_map.png)
+![Defined ROI](defined_roi.png)
+![Optimized Path](optimized_path.png)
+![Optimized Path](optimized_path.png)
 
 ## Customization
 This code is **fully customizable**:
