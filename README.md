@@ -27,15 +27,10 @@ This example demonstrates a complete workflow for planning a survey of **Rawal L
 ![Rawal Lake Map](images/rawal_lake_map.png)
 ![Defined ROI](images/defined_roi.png)
 ![Optimized Path](images/optimized_path.png)
+![Optimized Path](images/optimized_path.png)
 
 ## Customization
 This code is **fully customizable**:
 - Clone the repository and modify the input map to survey any region of interest.
 - Adjust ROI boundaries, takeoff/landing positions, and other parameters as needed.
 - Generate waypoints for various applications like agricultural monitoring, environmental surveys, or urban planning.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/custom-coverage-path-planner.git
-   cd custom-coverage-path-planner
