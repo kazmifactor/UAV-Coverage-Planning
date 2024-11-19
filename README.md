@@ -20,14 +20,15 @@ This repository provides a MATLAB implementation to create a **custom coverage p
 ## Example Application: Rawal Lake Survey
 This example demonstrates a complete workflow for planning a survey of **Rawal Lake**:
 - A satellite map of Rawal Lake is imported as the base map.
+  ![Rawal Lake Map](rawal_lake_map.png)
 - The ROI is defined interactively, including the shoreline and surrounding areas.
+  ![Defined ROI](defined_roi.png)
 - The planner decomposes the ROI into smaller sub-regions and generates an efficient coverage path.
+  ![Defined ROI](defined_roi.png)
 - The optimized waypoints are exported and ready to be used for autonomous UAV missions.
+- ![Mission_planner](mission_planner.png)
 
-![Rawal Lake Map](rawal_lake_map.png)
-![Defined ROI](defined_roi.png)
-![Optimized Path](optimized_path.png)
-![Optimized Path](optimized_path.png)
+
 
 ## Customization
 This code is **fully customizable**:
