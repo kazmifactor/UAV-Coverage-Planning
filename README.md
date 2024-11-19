@@ -21,7 +21,7 @@ This repository provides a MATLAB implementation to create a **custom coverage p
 This example demonstrates a complete workflow for planning a survey of **Rawal Lake**:
 - A satellite map of Rawal Lake is imported as the base map.
   ![Rawal Lake Map](rawal_lake_map.png)
-- The ROI is defined interactively, including the shoreline and surrounding areas.
+- The ROI is defined interactively.
   ![Defined ROI](defined_roi.png)
 - The planner decomposes the ROI into smaller sub-regions and generates an efficient coverage path.
   ![Defined ROI](defined_roi.png)
